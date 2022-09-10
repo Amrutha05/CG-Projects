@@ -7,4 +7,3 @@
 ![1](https://user-images.githubusercontent.com/72074803/189497180-555d5500-ce62-4bb1-8699-6e8594ac1466.jpg)
 ![2022-07-04 (9)](https://user-images.githubusercontent.com/72074803/189497181-d50eb804-1592-4c85-b526-74ade099b244.png)
 ![2022-07-04 (10)](https://user-images.githubusercontent.com/72074803/189497182-9af11192-5761-4f3e-940c-3bc52996d156.png)
-![2022-07-04 (11)](https://user-images.githubusercontent.com/72074803/189497187-0628b16e-9c79-4dde-a872-ba11496c436f.png)
