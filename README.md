@@ -1,9 +1,16 @@
 # CG-Projects
 
+A SPACESHIP WARRIORS OPENGL/GLUT PROJECT IN C
+
+
 ABSTRACT
   
 The main aim of the Spaceship Warriors Game in Computer Graphics Mini Project is to illustrate the concepts and usage of pre-built functions in OpenGL. Spaceship Warriors Game is being done using computer graphics. The Game is played between 2 players and is controlled using keyboard keys. To code this basic OpenGL Computer Graphics Mini-Project we need to understand the concept of the game and its movement.
+
+
       The Player Starts the game by pressing ENTER KEY. He can read the Instructions, Start or Quit the game based on his wish. The score starts from 100. The game is basically to kill your opponent. Each time a player gets shot, the LIFE score decreases. First, we need to code a spaceship, and then provide them with the movements and attacks.
+      
+      
    3D computer graphics or three-dimensional computer graphics are graphics that use a three-dimensional representation of geometric data that is stored in the computer to perform calculations and render 2D images. Such images may be stored for viewing later or displayed in real-time.3D computer graphics rely on many of the same algorithms as 2D computer vector graphics in the wire frame model and 2D computer raster graphics in the final rendered display. In computer graphics software, 2D applications may use 3D techniques to achieve effects such as lighting, and 3D may use 2D rendering techniques.
 
 
